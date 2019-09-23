@@ -8,11 +8,11 @@
   </header>
 </template>
 <script>
-export default {
-  props: {
-    title: String
+  export default {
+    props: {
+      title: String
+    }
   }
-}
 </script>
 <style lang="stylus" scoped>
   .header
