@@ -8,6 +8,8 @@ import store from './store';
 
 import {Button} from 'mint-ui';
 
+import './mock/mockServer.js';  // 加载mockServer即可
+
 Vue.component(Button.name, Button); // <mt-button>
 
 new Vue({
