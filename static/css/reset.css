@@ -90,9 +90,9 @@
 	 -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
  }
  
+ /*显示省略号*/
  .ellipsis{
 	 overflow: hidden;
 	 text-overflow: ellipsis;
 	 white-space: nowrap;
  }
- 
